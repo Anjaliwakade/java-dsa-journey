@@ -46,5 +46,3 @@ public class P09_FrequencyOfElements {
         }
 
     }
-
-}
